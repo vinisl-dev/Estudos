@@ -18,6 +18,7 @@ O projeto trata-se de um API  simples apenas com a função de criar um registro
 
 
 ```bash
+# Comando de terminal Linux curl 
 # Requisição POST ao endpoint da API com o objeto json a ser enviado na requisição
- $ curl -X POST -d '{"username":"vteste", "name":"vinicios"}' -H 'Content-Type: application/json' http://localhost:3000/users
+ $ curl -X POST -d '{"username":"John", "name":"John Doe"}' -H 'Content-Type: application/json' http://localhost:3000/users
 ```

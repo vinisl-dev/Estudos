@@ -1,0 +1,19 @@
+{
+  "name": "api_em_camadas_dani_leao",
+  "version": "1.0.0",
+  "description": "Este projeto reproduz os conceitos apresentados na aula sobre o tema, ***Criando aplicação em camadas***, apresentado por **Daniele Leão** na presente [aula](https://www.youtube.com/watch?v=82VxJWf0PVs&t=1528s). A arquitetura utilizada foi, <i><b>no que compreendi</b></i> uma variação da MVC, chamada de CSP - Controller, Service e Persistence",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

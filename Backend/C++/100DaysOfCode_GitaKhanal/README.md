@@ -9,7 +9,7 @@ This is the documentation for shared my learning with the challenge 100 days of 
 ## Desafios / Challenge
 
 - [Day 01 - Hello World](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
-- [Day 02 - Basic_calculation / cria 2 funções soma e mulplicação]();
+- [Day 02 - Basic_calculation / cria 2 funções soma e mulplicação](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal/02_Basic_calculation);
 
 
 ### Apreendizados / learnings

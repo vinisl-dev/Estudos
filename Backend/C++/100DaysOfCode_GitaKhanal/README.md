@@ -9,5 +9,23 @@ This is the documentation for shared my learning with the challenge 100 days of 
 ## Desafios / Challenge
 
 - [Day 01 - Hello World](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 02 - Basic_calculation / cria 2 funções soma e mulplicação]();
+
+
+### Apreendizados / learnings
+
+##### Day 01
+	- Nos podemos importar bibliotecas internar que tem as mesmas funcionalidades do C, "cstdio" 
+	- We can import libraries build-in what have the same functionalities the C "cstdio"
+
+
+	- Ainda não compreendi totalmente o conceito de namespace, mas parece que tem como função a criação de um escopo para acesso a variaveis, funções , objetos e mais ...
+	- I still don't fully understanding the concept of "namespace", but it seems that its function is to create a scope for acessing the variables, function, object and more ... 
+
+
+##### Frases / Phrases 
+	Passo a passo vou andando / Step to step I will walking
+
+sem sentido / senseless :)
 
 

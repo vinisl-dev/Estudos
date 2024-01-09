@@ -11,7 +11,7 @@
   | :-----------: |                      :---------:                            | :---------:                         |
   |       1       | [API em camadas Nodejs/Express chamada simples a uma rota POST](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Nodejs/api_em_camadas_Dani_Leao) |[Youtube/Daniele Leão](https://www.youtube.com/watch?v=82VxJWf0PVs)|
   |       2       | [Jogo da Forca - Vanilla](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/Jogo_da_Forca_Vanilla_Diego_Pinho) | [Prof Diego Pinho](https://www.youtube.com/watch?v=KNH_-_esmaI) |
-
+  |       3       | Cronometro vanilla(HTM, CSS, JS) - implementação propria     |[Leo Ujo](https://www.youtube.com/watch?v=msyTjg3t4Z8&list=PL3gpLKlUOEE2B6A9Zp5VFpqTwUOdIHYjx&index=2)|
 
 <br>
 

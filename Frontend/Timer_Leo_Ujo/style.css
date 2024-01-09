@@ -1,0 +1,47 @@
+body{
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+
+}
+
+div {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0;
+  color: whitesmoke
+
+}
+
+button {
+  border: none;
+  width: 5em;
+  height: 2em;
+  font-size: 1em;
+  border-radius: 2px;
+  padding: .2em;
+  cursor: pointer;
+  color: whitesmoke
+  
+}
+
+
+.btn-1 {
+  background-color: green;
+}
+
+.btn-2 {
+  background-color: orange;
+}
+
+.btn-3 {
+  background-color: red;
+}
+
+
+
+
+

@@ -21,7 +21,7 @@
 - [Day 01 - Hello World](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 02 - Basic_calculation / cria 2 funções soma e mulplicação](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal/02_Basic_calculation);
 
--[Day 03 - Find Quotient and Remainder](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal/03_Find_quotient_and_remainder)
+- [Day 03 - Find Quotient and Remainder](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal/03_Find_quotient_and_remainder)
 
 
 

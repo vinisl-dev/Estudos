@@ -12,12 +12,13 @@
   |   1   | [API em camadas Nodejs/Express chamada simples a uma rota POST](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Nodejs/api_em_camadas_Dani_Leao) |[Youtube/Daniele Leão](https://www.youtube.com/watch?v=82VxJWf0PVs)|
   |   2   | [Jogo da Forca - Vanilla](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/Jogo_da_Forca_Vanilla_Diego_Pinho) | [Prof Diego Pinho](https://www.youtube.com/watch?v=KNH_-_esmaI) |
   |   3   | [Cronometro vanilla(HTM, CSS, JS) - implementação propria](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/Timer_Leo_Ujo)     |[Leo Ujo](https://www.youtube.com/watch?v=msyTjg3t4Z8&list=PL3gpLKlUOEE2B6A9Zp5VFpqTwUOdIHYjx&index=2)|
-  |   4   | [API REST Nodejs com Mysql - docker](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Nodejs/Rest_API_Maransatto)  | [Maransatto](https://www.youtube.com/playlist?list=PLWgD0gfm500EMEDPyb3Orb28i7HK5_DkR)| in progress
-  |   5   | [Máscara para formulario - vanilla js]()| [Fernando Daciuk](https://www.youtube.com/watch?v=r-8isv_TnVA&t=7s)| in progress
+  |   4   | [API REST Nodejs com Mysql - docker *em andamento*](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Nodejs/Rest_API_Maransatto)  | [Maransatto](https://www.youtube.com/playlist?list=PLWgD0gfm500EMEDPyb3Orb28i7HK5_DkR)| in progress
+  |   5   | [Máscara para formulario - vanilla js *em andamento*]()| [Fernando Daciuk](https://www.youtube.com/watch?v=r-8isv_TnVA&t=7s)| in progress
 
 <br>
 
 ### Estudos paralelos 100DaysOfCode C++
+
 #### Fontes: [X](https://twitter.com/thetechgirlgita)  [github](https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/tree/master)
 
 - [Day 01 - Hello World](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
@@ -25,7 +26,6 @@
 
 - [Day 03 - Find Quotient and Remainder](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal/03_Find_quotient_and_remainder)
 - [Day 04 - Using Math Library in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
-
-
+-	[Day 05 - Basic Example of Nested If Else Condition]()
 
 

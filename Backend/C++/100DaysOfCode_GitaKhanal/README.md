@@ -4,7 +4,7 @@ Esta é a documentação para compartilhar meu aprendizado com o desafio de 100 
 ---
 This is the documentation for shared my learning with the challenge 100 days of code in the C++, in the X (Twitter), this be will interesting thefore C was mine first language, same never having  working in the area of development, I like very much her.
 
-#### Fonte / Source: https://twitter.com/thetechgirlgita
+#### Fonte / Source: [X - Gita Khanal](https://twitter.com/thetechgirlgita)
 
 ## Desafios / Challenge
 
@@ -13,9 +13,11 @@ This is the documentation for shared my learning with the challenge 100 days of 
 - [Day 03 - Find Quotient and Remainder using C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal/03_Find_quotient_and_remainder)
 - [Day 04 - Using Math Library in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 
+-	[Day 05 - Basic Example of Nested If Else Condition]()
+
+
 ### Apreendizados / learnings
 
-##### Day 01
 	- Nos podemos importar bibliotecas internar que tem as mesmas funcionalidades do C, "cstdio" 
 	- We can import libraries build-in what have the same functionalities the C "cstdio"
 

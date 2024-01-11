@@ -10,6 +10,7 @@
     display: flexbox;
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
   }
 body {
   margin-top: 10px;
@@ -32,6 +33,7 @@ input{
   width: 200px;
   height: 25px;
   font-size: 18px;
+  align-items: center;
   justify-content: center;
   background-color: azure;
   border: none;
@@ -55,17 +57,29 @@ input{
   <label>CNPJ: 00.000.000/0000-00</label>
   <input type="text" data-js="cnpj">
 
-  <label >Telefone: (00) 0000-0000</label>
+  <label >Telefone: (00) 00000-0000</label>
   <input type="text" data-js="phone">
 
+  <label>Telefone com DDI: +00 (00) 00000-0000</label>
+  <input type="text" data-js="phoneDDI" />
+
   <label>CEP: 0000-000</label>
-  <input type="text" data-js"cep">
+  <input type="text" data-js="cep">
 
   <label>PIS> 000.00000.00-0</label>
   <input type="text" data-js="pis">
 
+  <label>Moeda: R$ 0.000.000,00</label>
+  <input type="text" data-js="money" />
+
   <label>Data: 01/01/2024</label>
-  <input type="text" data-js="data">
+  <input type="text" data-js="date">
+
+  <label>Data: 01-01-2024</label>
+  <input type="text" data-js="dateWithDashes">
+
+  <label>Hora 00:00</label>
+  <input type="text" data-js="hour" >
 
 
 </body>

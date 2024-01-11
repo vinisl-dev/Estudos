@@ -6,7 +6,7 @@ Projeto para criação de mascara para campos input
 
 
 ### Apreendizados 
-	Ainda não tinha visto esta abordagem para validação de Regex, muito eficiente, compreencivel
+	Ainda não tinha visto esta abordagem para validação de Regex, muito eficiente, compreensível
 
 
 

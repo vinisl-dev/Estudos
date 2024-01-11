@@ -21,10 +21,17 @@ router.get('/:id',(req, res, next)=>{
     id
 });
 });
+
 // cadastra um produto
 router.post('/', (req, res, next)=>{
+  const produto = { 
+    nome: req.body.nome,
+    preco: req.body.preco
+  }
+
   res.status(201).send({
-    message:"Created"
+    message:"Insere um Produto",
+    produtoCriado: produto
   });
 });
 //atualiza um produto

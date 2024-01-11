@@ -22,3 +22,9 @@ API Nodejs express, com acesso a banco de dados mysql que realiza operações de
 - morgan - biblioteca para log de eventos no terminal
 - Vs code - editor de codigo fonte
 
+```bash
+
+curl -X POST -d '{"id_produto":1, "quantidade":10}' -H 'Content-Type: application/json' http://localhost:3000/pedidos
+
+
+``````

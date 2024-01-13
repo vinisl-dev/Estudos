@@ -1,6 +1,17 @@
 
 ### Definiçoes e compreenções gerais do projeto
 
+Este projeto foi o primeiro a me trazer de encontro com a compreensão do funcionamento relativo a arquitetura Hexagonal / Ports And Adapters, que em parte ja tinha compreensão mas não sabia como aplica-lo.
+
+### Comandos:
+
+deno task dev
+
+
+
+### Fontes: ###
+https://www.youtube.com/watch?v=XA6J9GM1TCQ&list=PLdPPE0hUkt0rYYNLRvRW0C83ADO_BM2nF&index=12&t=19s
+https://github.com/cod3rcursos/arq-hexagonal-simplificada
 
 ##### adapters ####
 

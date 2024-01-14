@@ -1,0 +1,10 @@
+{
+"env":{
+  "USER":"root",
+  "PASSWORD":"root",
+  "DATABASE":"store",
+  "PORT":3306,
+  "HOST":"localhost"
+}
+
+}

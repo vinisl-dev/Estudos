@@ -38,6 +38,7 @@ docker run -p 3306:3306 --name mysql-dev -e MYSQL_ROOT_PASSWORD=root -d mariadb
 #lista os container em execuçao no sistema host
 docker ps
 
-
+#roda/inicia uma container ja existente
+docker container start mysql-dev
 
 ``````

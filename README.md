@@ -16,6 +16,7 @@
   |   5   | [Máscara para formulario - vanilla js](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/Mascara_Para_Formulario) | [Fernando Daciuk](https://www.youtube.com/watch?v=r-8isv_TnVA&t=7s)|
   |   6   | [Ports_And_Adapters_Deno](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Ports_And_Adpaters_Deno) | [Cod3er](https://www.youtube.com/watch?v=XA6J9GM1TCQ&list=PLdPPE0hUkt0rYYNLRvRW0C83ADO_BM2nF&index=12&t=19s) |
   |   7   | [Injeção de Dependências com Typescript - Principios](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Injecao_de_dependencia_Ts) | [Dev José Carlos Teles](https://www.youtube.com/watch?v=HgY-SwDqkis&list=PL3kq-IWQFhkmjVI_bCN5CWV9X-zF4Teb3&index=4)
+  |   8   | [Fundamentos de OOP- Java - Revisão de conceitos basicos](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Java_OOP_Basic) |[Nataniel Paiva](https://www.youtube.com/playlist?list=PLxuFqIk29JL25N6PMMCAyRRx7elYsDbsB)|
 <br>
 
 ### Estudos paralelos 100DaysOfCode C++

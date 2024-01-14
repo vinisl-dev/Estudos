@@ -13,7 +13,9 @@ This is the documentation for shared my learning with the challenge 100 days of 
 - [Day 03 - Find Quotient and Remainder using C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal/03_Find_quotient_and_remainder)
 - [Day 04 - Using Math Library in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 -	[Day 05 - Basic Example of Nested If Else Condition](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
-- [Day 06 - Number Prime with loop fo](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 06 - Number Prime with loop for](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 07 - Display Variables Type sizes ](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 08 - Use of Structure](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 
 ### Apreendizados / learnings
 

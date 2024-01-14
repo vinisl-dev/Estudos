@@ -13,8 +13,9 @@
   |   2   | [Jogo da Forca - Vanilla](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/Jogo_da_Forca_Vanilla_Diego_Pinho) | [Prof Diego Pinho](https://www.youtube.com/watch?v=KNH_-_esmaI) |
   |   3   | [Cronometro vanilla(HTM, CSS, JS) - implementação propria](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/Timer_Leo_Ujo)     |[Leo Ujo](https://www.youtube.com/watch?v=msyTjg3t4Z8&list=PL3gpLKlUOEE2B6A9Zp5VFpqTwUOdIHYjx&index=2)|
   |   4   | [API REST Nodejs com Mysql - docker *em andamento*](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Nodejs/Rest_API_Maransatto)  | [Maransatto](https://www.youtube.com/playlist?list=PLWgD0gfm500EMEDPyb3Orb28i7HK5_DkR)| in progress
-  |   5   | [Máscara para formulario - vanilla js ](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/Mascara_Para_Formulario)| [Fernando Daciuk](https://www.youtube.com/watch?v=r-8isv_TnVA&t=7s)| in progress
-
+  |   5   | [Máscara para formulario - vanilla js](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/Mascara_Para_Formulario) | [Fernando Daciuk](https://www.youtube.com/watch?v=r-8isv_TnVA&t=7s)|
+  |   6   | [Posts_And_Adapters_Deno](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Ports_And_Adpaters_Deno) | [Cod3er](https://www.youtube.com/watch?v=XA6J9GM1TCQ&list=PLdPPE0hUkt0rYYNLRvRW0C83ADO_BM2nF&index=12&t=19s) |
+  |   7   | [Injeção de Dependências com Typescript - Principios](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Injecao_de_dependencia_Ts) | [Dev José Carlos Teles](https://www.youtube.com/watch?v=HgY-SwDqkis&list=PL3kq-IWQFhkmjVI_bCN5CWV9X-zF4Teb3&index=4)
 <br>
 
 ### Estudos paralelos 100DaysOfCode C++
@@ -28,5 +29,6 @@
 - [Day 04 - Using Math Library in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 -	[Day 05 - Basic Example of Nested If Else Condition](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 06 - Number Prime with loop fo](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
-
+- [Day 07 - Display Variables Type sizes ](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 08 - Use of Structure](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 

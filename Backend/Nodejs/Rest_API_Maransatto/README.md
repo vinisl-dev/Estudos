@@ -26,5 +26,18 @@ API Nodejs express, com acesso a banco de dados mysql que realiza operações de
 
 curl -X POST -d '{"id_produto":1, "quantidade":10}' -H 'Content-Type: application/json' http://localhost:3000/pedidos
 
+#Criação do MariaDb Docker
+
+#faz download da imagem
+docker pull mariadb
+#lista as imagens diponiveis no computador 
+docker images
+#executa o container e passa as configurações necessarias
+docker run -p 3306:3306 --name mysql-dev -e MYSQL_ROOT_PASSWORD=root -d mariadb
+
+#lista os container em execuçao no sistema host
+docker ps
+
+
 
 ``````

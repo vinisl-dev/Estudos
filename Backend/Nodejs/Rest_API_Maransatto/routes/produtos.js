@@ -1,4 +1,5 @@
 const { error } = require("console");
+const { response } = require("express");
 
 const router = require("express").Router();
 const mysql = require('../mysql').pool;
@@ -12,7 +13,22 @@ router.get('/', (req, res, next)=>{
       (error, result, field) =>{
         conn.release()
           if(error) return res.status(500).send({error:error})
-        return res.status(200).send({response: result})
+          const response = {
+            quantidade:result.length,
+            produtos: result.map(prod =>{
+              return {
+                id_produto: prod.id_produto,
+                nome: prod.nome,
+                preco: prod.preco,
+                request:{
+                  tipo:'GET',
+                  descricao:'Retorna todos os produtos',
+                  url:'http://localhost:3000/produtos/'
+                }
+              }
+            })
+        }
+        return res.status(200).send(response)
   })
   })
 })
@@ -21,8 +37,6 @@ router.get('/', (req, res, next)=>{
   
 router.get('/:id',(req, res, next)=>{
 
-   if(!id) return res.send({message:"Hooo nooo"});
-
 mysql.getConnection((error,conn) =>{
   if(error) return res.status(500).send({error:error})
   conn.query( 'select * from produtos where id_produto = ?',
@@ -30,8 +44,27 @@ mysql.getConnection((error,conn) =>{
     (error, result, field) =>{
       conn.release()
        if(error) return res.status(500).send({error:error})
-      return res.status(200).send({response: result})
-    })
+
+       if (result.length == 0){
+          return res.status(404).send({
+            mensagem: 'Não foi encontrado produto com esse ID'
+          })
+       }
+       const response = {      
+            produto:{
+                id_produto: result[0].id_produto,
+                nome: result[0].nome,
+                preco: result[0].preco,
+                request:{
+                tipo:'GET',
+                descricao:'Retorna um produto',
+                url:'http://localhost:3000/produtos/'+result[0].id_produto
+              }
+          } 
+    }
+      return res.status(200).send(response)
+    }
+  )
 })
 })
 
@@ -49,10 +82,21 @@ router.post('/', (req, res, next)=>{
       (error, result, field) => {
         conn.release();
         if(error) return res.status(500).send({error:error})
-        return res.status(201).send({
-            message:"Produto inserido com sucesso",
-            id_produto: result.insertId
-          })
+        const response = {
+            mensagem:'Produto inserido com sucesso',
+            produtoCriado: {
+                id_produto:result.id_produto,
+                nome: req.body.nome,
+                preco: req.body.preco,
+                request:{
+                  tipo:'post',
+                  descricao:'Insere um produto',
+                  url:'http://localhost:3000/produtos'
+                }
+
+            }
+        }
+        return res.status(201).send(response)
         })
    }) 
 })
@@ -68,6 +112,20 @@ router.patch('/', (req, res, next)=>{
       (error, result, field) => {
         conn.release();
         if(error) return res.status(500).send({error:error})
+        const response = {
+          mensagem:'Produto alterado com sucesso',
+          produtoCriado: {
+              id_produto:req.body.id,
+              nome: req.body.nome,
+              preco: req.body.preco,
+              request:{
+                tipo:'Patch',
+                descricao:'Produto alterado',
+                url:'http://localhost:3000/produtos'+req.body.id
+              }
+
+          }
+      }
         return res.status(202).send({ 
         message:"Produto alterado com sucesso",
         itensAltered:result.affectedRows })
@@ -84,9 +142,15 @@ router.delete('/', (req, res, next)=>{
       (error, result, field) => {
         conn.release();
         if(error) return res.status(500).send({error:error})
-        return res.status(202).send({ 
-        message:"Produto removido com sucesso",
-        itensDeleted:result.affectedRows })
+        const response = {
+          mensagem:'Produto removido com sucesso',
+          request: {
+            tipo: 'POST',
+            descricao:'Insere um produto',
+            url:'http://localhost:3000/produtos'
+          }
+        }
+        return res.status(202).send(response)
         })
    }) 
 })

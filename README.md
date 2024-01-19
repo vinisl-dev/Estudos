@@ -17,7 +17,9 @@
   |   6   | [Ports_And_Adapters_Deno](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Ports_And_Adpaters_Deno) | [Cod3er](https://www.youtube.com/watch?v=XA6J9GM1TCQ&list=PLdPPE0hUkt0rYYNLRvRW0C83ADO_BM2nF&index=12&t=19s) |
   |   7   | [Injeção de Dependências com Typescript - Principios](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Injecao_de_dependencia_Ts) | [Dev José Carlos Teles](https://www.youtube.com/watch?v=HgY-SwDqkis&list=PL3kq-IWQFhkmjVI_bCN5CWV9X-zF4Teb3&index=4)
   |   8   | [Fundamentos de OOP- Java - Revisão de conceitos basicos](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Java_OOP_Basic) |[Nataniel Paiva](https://www.youtube.com/playlist?list=PLxuFqIk29JL25N6PMMCAyRRx7elYsDbsB)|
-<br>
+  |   9   |[CRUD Full Stack com Nodejs, React e Mysql]()|[Will Dev](https://www.youtube.com/watch?v=voXTVTW73E8&t=9s)
+  <br>
+
 
 ### Estudos paralelos 100DaysOfCode C++
 
@@ -34,3 +36,6 @@
 - [Day 08 - Use of Structure](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 09 - Use of references in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 10 - Diefference between references and Pointers in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 11 - Using constructos for calling functions in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 12 - Using constructos for calling functions in C++ / 2](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 13 - Classes and Methods in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)

@@ -1,6 +1,3 @@
-Reconhecimento e transcrição de fala com API do HTML Speeach Recognation
-
-
 ## Projeto: Reconhecimento e transcrição de audio com SpeechRecognition
 ---
 ### Fonte: 

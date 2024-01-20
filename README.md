@@ -16,8 +16,12 @@
   |   5   | [Máscara para formulario - vanilla js](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/Mascara_Para_Formulario) | [Fernando Daciuk](https://www.youtube.com/watch?v=r-8isv_TnVA&t=7s)|
   |   6   | [Ports_And_Adapters_Deno](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Ports_And_Adpaters_Deno) | [Cod3er](https://www.youtube.com/watch?v=XA6J9GM1TCQ&list=PLdPPE0hUkt0rYYNLRvRW0C83ADO_BM2nF&index=12&t=19s) |
   |   7   | [Injeção de Dependências com Typescript - Principios](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Injecao_de_dependencia_Ts) | [Dev José Carlos Teles](https://www.youtube.com/watch?v=HgY-SwDqkis&list=PL3kq-IWQFhkmjVI_bCN5CWV9X-zF4Teb3&index=4)
-  |   8   | [Fundamentos de OOP- Java - Revisão de conceitos basicos](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Java_OOP_Basic) |[Nataniel Paiva](https://www.youtube.com/playlist?list=PLxuFqIk29JL25N6PMMCAyRRx7elYsDbsB)|
-  |   9   |[CRUD Full Stack com Nodejs, React e Mysql]()|[Will Dev](https://www.youtube.com/watch?v=voXTVTW73E8&t=9s)
+  |   8   | [Fundamentos de OOP- Java - Revisão de conceitos basicos](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Java_OOP_Basic) |[Nataniel Paiva](https://www.youtube.com/playlist?list=PLxuFqIk29JL25N6PMMCAyRRx7elYsDbsB) |
+  |   9   | [CRUD Full Stack com Nodejs, React e Mysql](https://github.com/vinisl-dev/Estudos/tree/main/FullStack/CRUD_Node_React_Mysql)|[Will Dev](https://www.youtube.com/watch?v=voXTVTW73E8&t=9s)
+  |   10  | [Kanban Drag and Drop - Vanilla](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/KanbanDragAndDrop)|[Will Dev](https://www.youtube.com/watch?v=uO-SuUhDI7k&list=PLAMpf2Pxx82srnUmkJO8M9eFvNxZ1I51R&index=29)|
+  |   11  | [Reconhecimento e transcrição de audio com SpeechRecognition](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/Reconhecimento_e_Transcricao_de_Fala) |[Will Dev](https://www.youtube.com/watch?v=lQFhsREQ9Sg&list=PLAMpf2Pxx82srnUmkJO8M9eFvNxZ1I51R&index=1)
+  |   12  | [Chat basico em tempo real com Nodejs e Websocket]() | [Hero Code](https://www.youtube.com/watch?v=sTU3BsfSTgE)
+  
   <br>
 
 
@@ -39,3 +43,4 @@
 - [Day 11 - Using constructos for calling functions in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 12 - Using constructos for calling functions in C++ / 2](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 13 - Classes and Methods in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 14 - Access specifiers in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)

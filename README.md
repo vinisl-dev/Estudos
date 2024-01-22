@@ -20,8 +20,8 @@
   |   9   | [CRUD Full Stack com Nodejs, React e Mysql](https://github.com/vinisl-dev/Estudos/tree/main/FullStack/CRUD_Node_React_Mysql)|[Will Dev](https://www.youtube.com/watch?v=voXTVTW73E8&t=9s)
   |   10  | [Kanban Drag and Drop - Vanilla](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/KanbanDragAndDrop)|[Will Dev](https://www.youtube.com/watch?v=uO-SuUhDI7k&list=PLAMpf2Pxx82srnUmkJO8M9eFvNxZ1I51R&index=29)|
   |   11  | [Reconhecimento e transcrição de audio com SpeechRecognition](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/Reconhecimento_e_Transcricao_de_Fala) |[Will Dev](https://www.youtube.com/watch?v=lQFhsREQ9Sg&list=PLAMpf2Pxx82srnUmkJO8M9eFvNxZ1I51R&index=1)
-  |   12  | [Chat basico em tempo real com Nodejs e Websocket]() | [Hero Code](https://www.youtube.com/watch?v=sTU3BsfSTgE)
-  
+  |   12  | [Chat basico em tempo real com Nodejs e Websocket](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Nodejs/ChatWebsocket_Hero_code) | [Hero Code](https://www.youtube.com/watch?v=sTU3BsfSTgE)
+  |   13  | [Tela de Login HTML, CSS]() | [Hora de Codar](https://www.youtube.com/watch?v=TpawIZdeMDI&list=PLnDvRpP8Bnew4ZYLYp47sD52OHQfHNdGB&index=12)
   <br>
 
 
@@ -31,7 +31,6 @@
 
 - [Day 01 - Hello World](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 02 - Basic_calculation / cria 2 funções soma e mulplicação](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal/02_Basic_calculation);
-
 - [Day 03 - Find Quotient and Remainder](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal/03_Find_quotient_and_remainder)
 - [Day 04 - Using Math Library in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 -	[Day 05 - Basic Example of Nested If Else Condition](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
@@ -44,3 +43,6 @@
 - [Day 12 - Using constructos for calling functions in C++ / 2](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 13 - Classes and Methods in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 14 - Access specifiers in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 15 - Encapsulation basic in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 16 - Inheritance's basic in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 17 - Multilevel Inheritance  in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)

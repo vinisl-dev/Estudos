@@ -22,7 +22,7 @@
   |   11  | [Reconhecimento e transcrição de audio com SpeechRecognition](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/Reconhecimento_e_Transcricao_de_Fala) |[Will Dev](https://www.youtube.com/watch?v=lQFhsREQ9Sg&list=PLAMpf2Pxx82srnUmkJO8M9eFvNxZ1I51R&index=1)
   |   12  | [Chat basico em tempo real com Nodejs e Websocket](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Nodejs/ChatWebsocket_Hero_code) | [Hero Code](https://www.youtube.com/watch?v=sTU3BsfSTgE)
   |   13  | [Tela de Login HTML, CSS](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/TelaLoginVanilla) | [Hora de Codar](https://www.youtube.com/watch?v=TpawIZdeMDI&list=PLnDvRpP8Bnew4ZYLYp47sD52OHQfHNdGB&index=12)
-  |   14  | [API Nodej sem Framework - CRUD]() | [Daniele Leão](https://www.youtube.com/watch?v=c39UfvCR-gk)
+  |   14  | [API Nodejs sem Framework - CRUD]() | [Daniele Leão](https://www.youtube.com/watch?v=c39UfvCR-gk)
   <br>
 
 
@@ -48,3 +48,4 @@
 - [Day 16 - Inheritance's basic in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 17 - Multilevel Inheritance  in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 18 - Multiple Inheritance  in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 19 - Inheritance Access  in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)

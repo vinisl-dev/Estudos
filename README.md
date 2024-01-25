@@ -54,4 +54,4 @@
 #### Estudos Paralelos 100 Days of JavaScript
 [Fonte:](https://github.com/AsmrProg-YT/100-days-of-javascript) 
 
-- [Day 01 - Pixel Art Generator]()
+- [Day 01 - Pixel Art Generator](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/100DayOfJavaScript/Day_01_PixelArtGenerator)

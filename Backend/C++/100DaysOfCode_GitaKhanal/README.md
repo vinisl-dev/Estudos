@@ -28,6 +28,7 @@ This is the documentation for shared my learning with the challenge 100 days of 
 - [Day 17 - Multilevel Inheritance  in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 18 - Multiple Inheritance  in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 19 - Inheritance Access  in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+-	[Day 20 - Simple Multiplication Table One Digit](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 
 
 ### Apreendizados / learnings

@@ -49,7 +49,8 @@
 - [Day 17 - Multilevel Inheritance  in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 18 - Multiple Inheritance  in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 19 - Inheritance Access  in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
-
+-	[Day 20 - Simple Multiplication Table One Digit](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+-	[Day 21 - Find Armstrong numbers ](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 
 #### Estudos Paralelos 100 Days of JavaScript
 [Fonte:](https://github.com/AsmrProg-YT/100-days-of-javascript) 

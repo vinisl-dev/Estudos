@@ -2,7 +2,7 @@ const tecnologias = ["java", "react", "node", "python", "php"];
 // faz uso dos metodos da classe Math, para gerar um numero randomico, ".random()", 
 //limitado ao numero de intens do array, "tecnologias.length", arrendonando para o menor numero inteiro, "floor"
 const palavraSecreta = tecnologias[Math.floor(Math.random() * tecnologias.length)];
-console.log(palavraSecreta)
+// console.log(palavraSecreta)
 
 const letrasErradas = [] // arrary vazio para armazenar as letras erradas
 const letrasCorretas = [] // array vazio para armazenar as letras corretas

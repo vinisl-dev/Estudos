@@ -31,26 +31,27 @@ let erase = false;
 
 const isTouchDevice = ()=>{ 
   try{
-  document.createEvent("TouchEvent") ;// great :) -  cria um listen para eventos do tipo touch
-  deviceType = "touch";               // se esse evento retorna um erro, atribui touch a deviceType
+  document.createEvent("TouchEvent") ;// great :) -  cria um listen para eventos o tipo touch
+  deviceType = "touch";               // se esse evento não retorna um erro, atribui touch a deviceType
   return true;
 } catch (e) {                         // se ocorrer um erro atribui mouse a deviceType 
   deviceType = "mouse";
   return false
 }
 };
-isTouchDevice();
+isTouchDevice();                    //executa a função
 
 gridButton.addEventListener("click", ()=>{
     container.innerHTML = "";
     let count = 0;
     for (let i=0; i < gridHeight.value; i++){ 
-      count +=2;
+      count +=1;
+   
       let div = document.createElement("div");
       div.classList.add("gridRow");
 
       for (let j=0; j < gridWidth.value; j++) {
-        count += 2;
+        count += 1;
         let col = document.createElement("div");
         col.classList.add("gridCol");
         col.setAttribute("id", `gridCol${count}`);

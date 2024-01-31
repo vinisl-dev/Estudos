@@ -52,8 +52,10 @@
 - [Day 19 - Inheritance Access  in C++](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 -	[Day 20 - Simple Multiplication Table One Digit](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 -	[Day 21 - Find Armstrong numbers ](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
-- [Day 22 - Basic Calculator ](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 22 - Basic Calculator (+,-,/,*)](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 23 - Converting Binary Number to Decimal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 24 - Converting Binary Number to Octal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+
 
 
 #### Estudos Paralelos 100 Days of JavaScript

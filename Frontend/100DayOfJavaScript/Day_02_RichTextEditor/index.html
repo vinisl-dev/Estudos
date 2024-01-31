@@ -22,8 +22,12 @@
       </button>
 
       <button id="insertOrderedList" class="option-button">
+        <div class="fa-solid fa-list-ol"></div>
+      </button>
+      <button id="insertUnorderedList" class="option-button">
         <i class="fa-solid fa-list"></i>
       </button>
+
 
       <button id="undo" class="option-button">
         <i class="fa-solid fa-rotate-left"></i>
@@ -59,20 +63,25 @@
       </button>
 
       <select  id="formatBlock" class="adv-option-button">
-        <option value="H1"></option>
-        <option value="H2"></option>
-        <option value="H3"></option>
-        <option value="H4"></option>
-        <option value="H5"></option>
-        <option value="H6"></option>
+        <option value="H1">H1</option>
+        <option value="H2">H2</option>
+        <option value="H3">H3</option>
+        <option value="H4">H4</option>
+        <option value="H5">H5</option>
+        <option value="H6">H6</option>
       </select>
-      <select name="" id="fontName" class="adv-option-button"></select>
-      <select name="" id="fontSize" class="adv-option-button"></select>
+      <select id="fontName" class="adv-option-button"></select>
+      <select id="fontSize" class="adv-option-button"></select>
 
       <div class="input-wrapper">
         <input type="color" id="foreColor" class="adv-option-button">
-        <label for="backColor">Highlight Color</label>
+        <label for="foreColor">Font Color</label>
       </div>
+      <div class="input-wrapper">
+        <input type="color" id="foreColor" class="adv-option-button">
+        <label for="foreColor">Highlibht Color</label>
+      </div>
+
 
     </div>
     <div id="text-input" contenteditable="true"></div>

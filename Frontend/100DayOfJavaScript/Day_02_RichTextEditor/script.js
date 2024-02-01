@@ -81,8 +81,9 @@ const highlighter = (className, needsRemoval) =>{
         if (!alreadyActive){
           button.classList.add("active");
         }
-      } else {}
+      } else {
         button.classList.toogle("active");
+      }
     });
   });
 };

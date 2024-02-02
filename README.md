@@ -63,3 +63,4 @@
 [Fonte:](https://github.com/AsmrProg-YT/100-days-of-javascript) 
 
 - [Day 01 - Pixel Art Generator](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/100DayOfJavaScript/Day_01_PixelArtGenerator)
+- [Day 02 - Rich Text Editor](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/100DayOfJavaScript/Day_02_RichTextEditor)

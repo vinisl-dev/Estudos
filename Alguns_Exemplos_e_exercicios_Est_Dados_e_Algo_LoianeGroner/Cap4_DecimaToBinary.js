@@ -45,8 +45,6 @@ class Stack {
 
 
 
-
-
 function decimalToBinary(decNumber){
   const remStack = new Stack();
   let number = decNumber;

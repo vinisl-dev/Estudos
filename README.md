@@ -56,7 +56,8 @@
 - [Day 23 - Converting Binary Number to Decimal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 24 - Converting Binary Number to Octal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 25 - Converting digits into binary and hexadecimal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
-
+- [Day 26 - Converting decimals into binary](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 27 - Convering Decimal into Octal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 
 
 #### Estudos Paralelos 100 Days of JavaScript

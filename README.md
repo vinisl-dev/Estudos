@@ -24,6 +24,7 @@
   |   13  | [Tela de Login HTML, CSS](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/TelaLoginVanilla) | [Hora de Codar](https://www.youtube.com/watch?v=TpawIZdeMDI&list=PLnDvRpP8Bnew4ZYLYp47sD52OHQfHNdGB&index=12)
   |   14  | [API Nodejs sem Framework - CRUD]() | [Daniele Leão](https://www.youtube.com/watch?v=c39UfvCR-gk)
   |   15  | [Desenho no navegador em Canvas com Socket.io, Nodejs, Express](https://www.youtube.com/watch?v=bLvDJ_a32uM) | [ProgramadorBr]()  |
+  |   16  | [Jogo da Velha - HTMl, CSS, JS]() | [Felipe Rocha](https://www.youtube.com/watch?v=0EiX9c4vzRs) |
   <br>
 
 

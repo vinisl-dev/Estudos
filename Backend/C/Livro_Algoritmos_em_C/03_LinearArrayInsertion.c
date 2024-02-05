@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+//alerta de vazamento de memoria no array
 
 void  insert(int array[], int length, int tempArray[], int score, int insertIndex) {
   int i;
@@ -22,9 +23,10 @@ int main(){
   // printf("Array Original: %d,",array[i]);
   // }
   insert(array, length, tempArray,75,2);
+
   memcpy(array, tempArray, sizeof(tempArray));
   
-  for(int i=0; i< length +1; i++){
+  for(int i=0; i <= length; i++){
     printf("%d,", array[i]);
   }
   return 0;

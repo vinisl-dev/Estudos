@@ -60,6 +60,7 @@
 - [Day 26 - Converting decimals into binary](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 27 - Convering Decimal into Octal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 28 - Convering Decimal into Hexadecimal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 29 - Converting Octal into Binary](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 
 
 #### Estudos Paralelos 100 Days of JavaScript
@@ -67,5 +68,12 @@
 
 - [Day 01 - Pixel Art Generator](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/100DayOfJavaScript/Day_01_PixelArtGenerator)
 - [Day 02 - Rich Text Editor](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/100DayOfJavaScript/Day_02_RichTextEditor)
-- [Day 03 - Password Generator]()
+- [Day 03 - Password Generator](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/100DayOfJavaScript/Day_03_PassGenerator)
+
+#### Livro Estrutura de Dados e Algoritmos Loiane Groner
+[Repositorio: ](https://github.com/vinisl-dev/Estudos/tree/main/Alguns_Exemplos_e_exercicios_Est_Dados_e_Algo_LoianeGroner)
+
+ - Cap. 3 - Fibonacci com uso de Array
+ - Cap. 4 - Conversor de Base Decimal para Binario
+ - Cap. 4 - Conversor de Decimal para qualquer Base
 

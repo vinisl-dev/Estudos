@@ -59,6 +59,7 @@
 - [Day 25 - Converting digits into binary and hexadecimal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 26 - Converting decimals into binary](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 27 - Convering Decimal into Octal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 28 - Convering Decimal into Hexadecimal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 
 
 #### Estudos Paralelos 100 Days of JavaScript
@@ -66,3 +67,5 @@
 
 - [Day 01 - Pixel Art Generator](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/100DayOfJavaScript/Day_01_PixelArtGenerator)
 - [Day 02 - Rich Text Editor](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/100DayOfJavaScript/Day_02_RichTextEditor)
+- [Day 03 - Password Generator]()
+

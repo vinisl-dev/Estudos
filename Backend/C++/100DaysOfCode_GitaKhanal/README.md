@@ -36,6 +36,7 @@ This is the documentation for shared my learning with the challenge 100 days of 
 - [Day 25 - Converting digits into binary and hexadecimal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 26 - Converting decimals into binary](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 27 - Convering Decimal into Octal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 28 - Convering Decimal into Hexadecimal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 
 ### Apreendizados / learnings
 

@@ -24,8 +24,9 @@
   |   13  | [Tela de Login HTML, CSS](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/TelaLoginVanilla) | [Hora de Codar](https://www.youtube.com/watch?v=TpawIZdeMDI&list=PLnDvRpP8Bnew4ZYLYp47sD52OHQfHNdGB&index=12)
   |   14  | [API Nodejs sem Framework - CRUD]() | [Daniele Leão](https://www.youtube.com/watch?v=c39UfvCR-gk)
   |   15  | [Desenho no navegador em Canvas com Socket.io, Nodejs, Express](https://www.youtube.com/watch?v=bLvDJ_a32uM) | [ProgramadorBr]()  |
-  |   16  | [Jogo da Velha - HTMl, CSS, JS]() | [Felipe Rocha](https://www.youtube.com/watch?v=0EiX9c4vzRs) |
-  |   17  | [Exemplo basico Nodejs para criação de qrCode]() |[Robert E. Hilton](https://morioh.com/a/e975217ff947/generate-qr-codes-in-node-with-qrcode-module) |
+  |   16  | [Jogo da Velha - HTMl, CSS, JS](https://github.com/vinisl-dev/Estudos/tree/main/Frontend/JogoDaVelha_FelipeRocha) | [Felipe Rocha](https://www.youtube.com/watch?v=0EiX9c4vzRs) |
+  |   17  | [Exemplo basico Nodejs para criação de qrCode](https://github.com/vinisl-dev/Estudos/tree/main/Backend/Nodejs/QrCode_Generator_Nodejs) |[Robert E. Hilton](https://morioh.com/a/e975217ff947/generate-qr-codes-in-node-with-qrcode-module) |
+  |   18  | [Aplicando Arquitetura Hexagonal com TDD]() | [Rodrigo Branas](https://www.youtube.com/watch?v=DWsxTJpxaOo&list=PLQCmSnNFVYnStflA1V__q6_9yC8_nV2ra&index=6&t=1025s)
 
   <br>
 

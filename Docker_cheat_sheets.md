@@ -5,7 +5,9 @@
 
 
 
-
+query string local para conexão no banco postgres - projeto branas 
+"postgres://postgres:postgres@127.0.0.1:5433/postgres"
+tabela: "card_transaction"
 
 
 

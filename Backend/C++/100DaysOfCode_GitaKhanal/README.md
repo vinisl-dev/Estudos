@@ -38,6 +38,9 @@ This is the documentation for shared my learning with the challenge 100 days of 
 - [Day 27 - Convering Decimal into Octal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 28 - Convering Decimal into Hexadecimal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 29 - Converting Octal into Binary](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 30 - Converting Octal into Decimal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 31 - Converting Octal into Hexadecimal](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
+- [Day 32 - Binary Search](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 
 
 ### Apreendizados / learnings

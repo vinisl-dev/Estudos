@@ -36,7 +36,8 @@ const handleClick = (taskContent)=>{
 
   const tasks = tasksContainer.childNodes // retorna todos os elementos html de tasksContainer
     for (const task of tasks){
-      if(task.firstChild.isSameNode(taskContent)){ //compara se a tag p é a mesma contida no html
+      const currentTaskIsBeingClicked = task.firstChild.isSameNode(taskContent)  //compara se a tag p é a mesma contida no html
+      if(currentTaskIsBeingClicked){
          task.firstChild.classList.toggle("completed")   
       }
     
@@ -48,12 +49,12 @@ const handleDeleteClick = (taskItemContainer, taskContent)=>{
   const tasks = tasksContainer.childNodes
 
   for(const task of tasks){
-    if(task.firstChild.isSameNode(taskContent)){
+    const currentTaskIsBeingClicked = task.firstChild.isSameNode(taskContent)
+    if(currentTaskIsBeingClicked){
       taskItemContainer.remove()
     }
   }
-
-}
+} 
 
 
 const handleInputChange = () =>{

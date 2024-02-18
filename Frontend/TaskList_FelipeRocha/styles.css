@@ -69,7 +69,7 @@ body{
 }
 .task-item{
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   margin-bottom: 6px;
   margin-top: 6px;
@@ -79,6 +79,9 @@ body{
   background-color: #41b883;
   padding: 12px;
   border-radius: 5px;
+}
+.task-item i:hover{
+  cursor: pointer;
 }
 .completed{
   text-decoration: line-through;

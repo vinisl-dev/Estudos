@@ -43,7 +43,7 @@ This is the documentation for shared my learning with the challenge 100 days of 
 - [Day 32 - Binary Search](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 33 - Leap Year Check-in](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 - [Day 34 - Reverse the string](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
-
+- [Day 35 - Bubble Sorting Algoritm](https://github.com/vinisl-dev/Estudos/tree/main/Backend/C%2B%2B/100DaysOfCode_GitaKhanal)
 ### Apreendizados / learnings
 
 	- Nos podemos importar bibliotecas internar que tem as mesmas funcionalidades do C, "cstdio" 

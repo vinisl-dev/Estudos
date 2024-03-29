@@ -86,3 +86,8 @@
  - Cap. 4 - Conversor de Base Decimal para Binario
  - Cap. 4 - Conversor de Decimal para qualquer Base
 
+#### Pandas e Numpy, ML, DS, IA
+
+- [Exemplo Criação da classe Vetor com Numpy]()
+
+- [Arquivos Imersão Alura Python Dados - 2024]()

@@ -1,0 +1,143 @@
+docker container ls -a
+
+# lista todas as imagens
+
+docker container ls 
+
+lista imagens de container em execucao
+
+docker container run --name meucontainer imagemContainer
+
+cria um container com uma imagem nomeada
+
+docker container rm id/nome
+
+remove um container
+
+docker container run --rm imagem
+cria um container e auto remove apos o fim da execução do mesmo
+
+
+docker container run -e POSTGRES_PASSWORD=toor -e POSTGRES_USER=admin -e POSTGRES_DB=news -d postgres 
+
+cria um container postgres com todos os parametros da imagem em  background
+
+docker container exec -it id/nomeContainer /bin/bash
+executa um terminal interativo no container
+
+
+docker container run -e POSTGRES_PASSWORD=toor -e POSTGRES_USER=admin -e POSTGRES_DB=news -d -p 5432:5432  postgres
+
+faz um bind de portas portHost:PortContainer
+
+docker container stop id/nome	
+
+renomear um container padrao namespacedockerhub/repositorio:tag(versao da imagem)
+
+exemplo vinicios/conversao-temperatura:v1
+docker tag conversa-temperatura vinicios/conversao-temperatura:v1
+
+crie o arquivo dockerignore para não copiar pastas e arquivos para imagem como node_modules por exemplo
+
+docker login 
+autentica no dockerhub
+
+docker logout 
+sair da conta
+
+docker push nome da imagem
+envia imagem para o repo
+
+
+para a execução do container um container em execução não pode ser removido com docker container --rm
+ 
+ docker contaienr rm -f id/name
+ para e remove um container
+ 
+ -- modelo docker file 
+ #Define uma imagem base
+FROM node
+
+#diretorio de trabalho da imagem
+WORKDIR /app
+
+#copia um arquivo do diretorio local host para o diretorio atual do container
+COPY package*.json ./
+
+#executa uma instrução no container
+RUN npm install
+
+COPY . ./
+
+CMD ["node", "server.js"]
+EXPOSE 8080
+
+
+---------------
+
+ 
+
+docker build -t nomedaImagem  contexto(tudo que quer enviar para imagem)
+docker build -t conversao-temperatura ./
+
+ docker build -t vinicios/conversao-temperatura:latest --push .
+cria a imagem e envia para o repo
+
+docker image prune
+deleta as imagens sem referencia
+
+docker image rm id/nome
+deleta uma imagem
+
+
+
+
+Resumo de comando dockerfile
+
+FROM =>	inicializa o build de uma imagem a partir de uma imagem base
+RUN =>	Executa um comando
+LABEL => Adiciona metadados a imagem
+CMD => Define o comando e/ou os parâmetros padrão
+EXPOSE => Define que o container precisa expor a porta em questão
+ARG => Define uma argumento para ser usado no processo de construção
+ENV => Define varíaveis de ambiente
+ADD => Copia arquivos ou diretorios ou arquivos remotos e adiciona ao sistema de arquivos da imagem
+COPY => Copia arquivos ou diretórios e adiciona ao sistema de arquivos da imagem
+ENTRYPOINT => Ajuda você a configurar um contêiner que pode ser executado como um executável
+VOLUME => Define volumes que devem ser definidos
+WORKDIR => Define o seu diretório corrente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

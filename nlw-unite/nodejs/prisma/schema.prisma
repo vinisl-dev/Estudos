@@ -1,0 +1,24 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Event {
+  // id Int @id @default(autoincrement()) // cria id incremental inteiro
+  id String @id @default(uuid()) //cria uma primary key aleatoria não sequencial
+  title String
+  details String? // ? faz o campo ser opcional
+  slug String @unique //@campo único
+  maximumAttendees Int? @map("maximum_attendees") //1 @ renomeia um campo
+
+  
+  @@map("events") //renomeia a tabela pra events
+
+}

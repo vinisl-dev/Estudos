@@ -39,6 +39,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 - prisma
 - Sqlite
 - zod 
+- fastify-type-provider-zod
 
 
 ### Setup 
@@ -73,6 +74,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
       npx prisma studio // utilitario para manipula banco de dados
       
     npm i zod
+    npm install fastify-type-provider-zod
 ## informações uteis
   - metodos http são apena semanticos, na pratica poderia utilizar um unico tipo de requisição para exeutar qualquer comportamento
 

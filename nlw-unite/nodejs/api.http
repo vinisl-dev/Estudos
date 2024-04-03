@@ -2,7 +2,32 @@ POST http://localhost:3333/events
 Content-Type: application/json
 
 {
-  "title":"Unite Summit",
-  "details":"um evento de tecnologia",
-  "maximumAttendees":100
+  "title":"novo evento 4",
+  "details":"happy day nodejs",
+  "maximumAttendees":1
 }
+
+###
+POST http://localhost:3333/events/e14313cf-b920-4838-b6d4-23335873fb9f/attendees
+Content-Type: application/json
+
+{
+  "name":"vinicios",
+  "email":"teste@test1.com.br"
+}
+
+###
+POST http://localhost:3333/events/3c98202f-4c38-47c7-ab7b-72eb8c75f224/attendees
+Content-Type: application/json
+
+{
+  "name":"vinicios",
+  "email":"teste@br.com.br"
+}
+
+###
+GET http://localhost:3333/events/3c98202f-4c38-47c7-ab7b-72eb8c75f224
+
+###
+GET http://localhost:3333/attendees/4/badge
+

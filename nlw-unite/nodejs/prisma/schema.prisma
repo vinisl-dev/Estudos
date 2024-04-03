@@ -17,8 +17,21 @@ model Event {
   details String? // ? faz o campo ser opcional
   slug String @unique //@campo único
   maximumAttendees Int? @map("maximum_attendees") //1 @ renomeia um campo
-
+  attendees Attendee[]
   
   @@map("events") //renomeia a tabela pra events
 
+}
+
+model Attendee {
+  id Int @id @default(autoincrement())
+  name String
+  email String
+  createdAt DateTime @default(now()) @map("created_at")
+  eventId String @map("event_id")
+
+  //criando foreing key no prisma
+  event Event @relation(fields: [eventId], references:[id])
+  @@unique([eventId,email])
+  @@map("attendees")
 }

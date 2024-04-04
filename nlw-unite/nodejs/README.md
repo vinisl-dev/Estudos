@@ -40,7 +40,12 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 - Sqlite
 - zod 
 - fastify-type-provider-zod
-
+- seed para popular banco de dados -D
+    npx prisma db seed - roda os comando do pagkage.json para popular o db
+- Fastify-Swagger - criação de documentação
+- @fastify/cors
+- tsup -D transpiler para build de produção
+ 
 
 ### Setup 
 
@@ -73,8 +78,26 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
       npx prisma studio // utilitario para manipula banco de dados
       
+    // cria validação de atributos de entrada e retorno
     npm i zod
     npm install fastify-type-provider-zod
+
+    //criação de documentação para api
+    npm i @fastify/swagger
+    npm i @fastify/swagger-ui
+  
+    // Configuração de CORS
+    npm i @fastify/cors  
+
+    // Ts up para build da applicação
+     npm i tsup -D
+     adicionar na seção script do package.json o codigo abaixo
+   **"build":"tsup src --format esm"**
+      npm run build
+
+      
+
+
 ## informações uteis
   - metodos http são apena semanticos, na pratica poderia utilizar um unico tipo de requisição para exeutar qualquer comportamento
 

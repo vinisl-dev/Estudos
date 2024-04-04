@@ -2,18 +2,18 @@ POST http://localhost:3333/events
 Content-Type: application/json
 
 {
-  "title":"novo evento 4",
-  "details":"happy day nodejs",
+  "title":123,
+  "details":null,
   "maximumAttendees":1
 }
-
+// 667dabd0-ac85-4c15-b0c9-22ac0decb89e"
 ###
-POST http://localhost:3333/events/e14313cf-b920-4838-b6d4-23335873fb9f/attendees
+POST http://localhost:3333/events/667dabd0-ac85-4c15-b0c9-22ac0decb89e/attendees
 Content-Type: application/json
 
 {
-  "name":"vinicios",
-  "email":"teste@test1.com.br"
+  "name":"teste",
+  "email":"teste@a.com.br"
 }
 
 ###
@@ -21,8 +21,8 @@ POST http://localhost:3333/events/3c98202f-4c38-47c7-ab7b-72eb8c75f224/attendees
 Content-Type: application/json
 
 {
-  "name":"vinicios",
-  "email":"teste@br.com.br"
+  "name":"teste",
+  "email":"teste@az.com.br"
 }
 
 ###
@@ -31,3 +31,12 @@ GET http://localhost:3333/events/3c98202f-4c38-47c7-ab7b-72eb8c75f224
 ###
 GET http://localhost:3333/attendees/4/badge
 
+###
+GET http://localhost:3333/attendees/8/check-in
+
+###
+GET http://localhost:3333/events/667dabd0-ac85-4c15-b0c9-22ac0decb89e/attendees
+
+###
+// consulta com query
+GET http://localhost:3333/events/667dabd0-ac85-4c15-b0c9-22ac0decb89e/attendees?query=teste

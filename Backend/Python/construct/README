@@ -1,0 +1,47 @@
+
+
+### Comando de configuração do ambiente
+virtualenv -p python3 venv
+source ./venv/bin/active
+
+django-admin startproject construct .
+python3 manage.py
+python3 manage.py runserver
+
+
+#apos as configurações acima o desenvolvimento começlão com a criação de app
+
+python3 manage.py startapp  nome do app
+
+Apos a crianção do app, deve se incluir o app em INSTALLED_APPS DO ARQUIVO SETTINGS.PY
+bibliotecas tambem devem ser inseridas nele
+
+quando cria um modelo personalizado é necessario 
+adicionar atributo AUTH_USER_MODEL ='usuarios.Users' no arquivo settings
+apos isso deve-se rodar o comando de criação de migrates
+
+python3 mange.py makemigrations
+python3 manage.py migrate
+
+
+## criação de superusuario para acesso a pagina de admin do django
+
+python3 mange.py createsuperuser
+
+vini
+123
+
+
+# para primeira rota funcionar tive que inserir na primeira linha da views a importação do Http
+from django.http import HttpResponse, no video não foi necessario, porque?
+
+# uso de decorator para adicionar funcionalidade como permisão de acesso a rotas
+@has_permission_decorator('gerente')
+
+### Pacote
+
+pip install django
+pip install pillow
+pip install django-role-permissions //biblioteca para cria permissões baseadas em regras
+
+

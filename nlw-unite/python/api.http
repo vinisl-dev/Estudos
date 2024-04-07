@@ -1,0 +1,12 @@
+###
+POST http://127.0.0.1:3000/events
+Content-Type: {application/json}
+{
+    "title":"titulo teste api",
+    "details":"some details",
+    "slug":"titulo-teste",
+    "maximum_attendees":20
+}
+
+###
+GET http://127.0.0.1:3000/

@@ -12,6 +12,6 @@ def pattern_2(rows):
       print (j, end='')
     print('\r')
 
-pattern_1(5)
-print('\n')
+# pattern_1(5)
+# print('\n')
 pattern_2(5)

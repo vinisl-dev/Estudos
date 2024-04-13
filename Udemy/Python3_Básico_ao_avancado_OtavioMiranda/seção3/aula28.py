@@ -12,3 +12,5 @@ if  nome and idade:
     print('A ultima letra do seu nome é ', nome[-1])
     splited = nome.split()
     print(splited)
+else:
+    print("Desculpe, você deixou campos vazios")

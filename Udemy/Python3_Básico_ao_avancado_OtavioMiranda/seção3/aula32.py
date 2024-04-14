@@ -1,7 +1,7 @@
 numero = input("digite um numero inteiro ")
 
 if numero.isdigit():
-    numero =int(numero)
+    numero = int(numero)
 
     if numero % 2 == 0:
     

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <meta name= "viewport" contents="width-device-width, initial-scale=1.0">
+        <title>CRUD Django</title>
+
+    </head>
+    <body>
+        <h1>CRUD</h1>
+
+        <ul>
+        {% for pessoa in pessoas %}
+            <li>{{pessoa.id}} - {{pessoa.nome}} 
+                <a href="{% url 'editar' pessoa.id %}">Editar</a>
+                <a href="{% url 'delete' pessoa.id %}">Remove</a>
+            </li>
+        {% endfor %}
+        </ul>
+        <form action="{% url 'salvar' %}" method="POST">
+            {% csrf_token %}
+            <input type="text" name="nome">
+            <button type="submit">Salvar</button>
+            
+        </form>
+   
+   
+    </body>
+
+</html>

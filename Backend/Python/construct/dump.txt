@@ -1,0 +1,6 @@
+{"test1":"1", "teste2":123, "teste3":345, "itens":{"sim":"1", "não":"-1", "neutro":"0"},
+"veiculos":{
+    "0":{"placa":"QUA-1119", "marca":"Ford"},
+    "1":{"placa":"KBY-5028","marca":"GM"}
+}
+}

@@ -3,6 +3,7 @@
 /debug.log
 debug.log
 debug?.log
+*_ingnore.*
 
 # Logs
 logs

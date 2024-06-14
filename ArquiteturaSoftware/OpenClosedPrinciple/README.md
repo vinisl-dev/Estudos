@@ -1,5 +1,5 @@
 ## Cria um container docker com postgres
-docker run -p 5432:5432 -e POSTGRES_PASSWORD=1234 postgres
+docker run -p 5432:5432 -e POSTGRES_PASSWORD=123456 postgres
 
 ## configura um ambiente typescript com jest
 

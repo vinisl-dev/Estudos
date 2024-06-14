@@ -1,0 +1,21 @@
+/html/body/div/div[@class="row"]/div[@class="col-md-8"]/div[1]/div/a[4]
+
+//div[@class="tags"]
+
+//div[@class="tags"]
+
+blocos = response.xpath('//div[@class="quote"]')
+
+texto = bloco.xpath('./span[@class="text"]/text()').get()
+
+for bloco in blocos:
+     texto = bloco.xpath('./span[@class="text"]/text()').get()
+     author = bloco.xpath('.//small/text()').get()
+     tags = bloco.xpath('.//a[@class="tag"]/text()').getall()
+     print(texto, author, tags)
+
+#paginação
+
+//li[@class="next"]/a/
+
+//li[@class="next"]/a/@href - pega o valor de href do xpath

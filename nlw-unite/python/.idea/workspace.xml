@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cebde27e-bba2-40ec-ac69-c8e1d06ee42b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Backend/Python/Python_OOP_prog_Lhama/tempCodeRunnerFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/create.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/jest.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/jest.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/src/MakeReservation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/src/MakeReservation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/test/MakeReservation.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/test/MakeReservation.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ArquiteturaSoftware/OpenClosedPrinciple/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/vinicios/git/vinislDev/Estudos/nlw-unite/python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vinicios/git/vinislDev/Estudos/nlw-unite/python&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

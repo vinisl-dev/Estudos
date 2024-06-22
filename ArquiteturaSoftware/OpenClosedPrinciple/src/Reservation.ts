@@ -1,7 +1,8 @@
 import crypto from 'crypto'
-import Room from './Room.js';
-export default class Reservation{
+import Room from './Room';
+import { PriceCalculateFactory } from './PriceCalculator';
 
+export default class Reservation{
 
     constructor(readonly reservationId:string,  readonly roomId: string, readonly email:string , readonly checkinDate: Date, readonly checkoutDate: Date, private duration: number, private price:number, private status: string){
     }
@@ -15,8 +16,9 @@ export default class Reservation{
         }
 
         calculate(room:Room){
-            this.duration = (this.checkoutDate.getTime() - this.checkinDate.getTime()) / (1000*60*60*24);
-            this.price = this.duration * room.price;
+          const {duration, price} = PriceCalculateFactory.create(room.type).calculate(this.checkinDate, this.checkoutDate, room.price);
+          this.duration = duration;
+          this.price = price;
         }
 
         getStatus(){
@@ -29,5 +31,4 @@ export default class Reservation{
         getPrice(){
             return this.price;
         }
-
 }

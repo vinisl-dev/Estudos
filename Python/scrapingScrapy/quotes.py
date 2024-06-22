@@ -25,7 +25,3 @@ class Quotes(scrapy.Spider):
             
             yield response.follow(proxima_pagina, callback=self.parse)
 
-           
-
-
-

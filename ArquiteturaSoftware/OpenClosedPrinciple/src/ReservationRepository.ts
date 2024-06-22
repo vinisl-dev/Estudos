@@ -1,4 +1,4 @@
-import Reservation from "./Reservation.js";
+import Reservation from "./Reservation";
 import pgp from "pg-promise"
 
 export default interface ReservationRespository{

@@ -1,5 +1,6 @@
-import Room from "./Room.js";
+import Room from "./Room";
 import pgp from "pg-promise";
+
 export default interface RoomRepository{
     get (roomId: string): Promise<Room>;
 

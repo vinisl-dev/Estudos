@@ -1,10 +1,9 @@
-import RoomRepository from "./RoomRepository.js"
-import ReservationRepository from "./ReservationRepository.js"
-import Reservation from "./Reservation.js";
+import Reservation from "./Reservation";
+import RoomRepository from "./RoomRepository"
+import ReservationRepository from "./ReservationRepository"
 
 export default class MakeReservation{
     constructor(readonly roomRepository: RoomRepository, readonly reservationRepository: ReservationRepository){
-
 
     }
 
@@ -15,11 +14,9 @@ export default class MakeReservation{
         await this.reservationRepository.save(reservation);
         return {
             reservationId: reservation.reservationId
-        }
-        
+        }        
     }
 }
-
 
 type Input = {
     roomId: string,

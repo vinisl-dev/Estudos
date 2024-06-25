@@ -142,3 +142,9 @@ dist
 .pytest_cache
 venv
 .env
+.mypy_cache
+.dmypy.djon
+dmypy.json
+venv/
+.ruff_cache
+

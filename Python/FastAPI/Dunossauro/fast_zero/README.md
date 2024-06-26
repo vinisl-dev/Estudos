@@ -1,3 +1,10 @@
+## Libs para estudos
+### FastAPI
+### pydentic
+### ruff
+
+
+
 ### cria um projeto
 poetry new project 
 

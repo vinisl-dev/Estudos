@@ -16,7 +16,9 @@ poetry install
 
 ### instalando bibliotecas com poetry
 poetry add fastapi
+
 ### Ativa ambiente virtual do poetry
+##### primeira coisa a se fazer ao voltar ao desenvolvimento
 poetry shell
 
 ### executando App com fastAPI

@@ -8,10 +8,7 @@ public class SupermarketArray implements Supermarket{
     public SupermarketArray(final int size) {
        items = new String[size];
        lastIndex = -1;
-
-
     }
-
 
     @Override
     public void add(String item) {

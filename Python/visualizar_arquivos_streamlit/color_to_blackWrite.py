@@ -9,7 +9,7 @@ def img_to_black_and_white(image):
 st.title('Conversor de imagens')
 file = st.file_uploader(
     'Suba sua imagem aqui!',
-    type=['jpg','png']
+    type=[]
 )
 
 if file:

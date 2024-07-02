@@ -5,7 +5,7 @@ frase = ''' O Python é uma linguagem de programação
 # print(frase.count('Python'))
 
 i = 0
-qtd_apareceu_mais_vezes = 0
+qtd_atual = 0
 letra_apareceu_mais_vezes = ''
 
 while i < len(frase):
@@ -17,9 +17,9 @@ while i < len(frase):
     
     qtd_apareceu_mais_vezes_atual = frase.count(letra_atual)
     
-    if qtd_apareceu_mais_vezes < qtd_apareceu_mais_vezes_atual:
-        qtd_apareceu_mais_vezes = qtd_apareceu_mais_vezes_atual
+    if qtd_atual < qtd_apareceu_mais_vezes_atual:
+        qtd_atual = qtd_apareceu_mais_vezes_atual
         letra_que_apareceu_mais_vezes = letra_atual
     i += 1
     
-print( letra_que_apareceu_mais_vezes , qtd_apareceu_mais_vezes)
+print( letra_que_apareceu_mais_vezes , qtd_atual)

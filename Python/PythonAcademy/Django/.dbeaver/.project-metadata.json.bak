@@ -1,1 +1,1 @@
-{"resources":{"Scripts/Script.sql":{"default-datasource":"postgres-jdbc-190215ab66d-617fc12dc48d381b","default-catalog":"postgres","default-schema":"branas"}}}
+{"resources":{"Scripts/Script-1.sql":{"default-datasource":"postgres-jdbc-19032b07fb7-3391751052a5a9dc","default-catalog":"teste","default-schema":"public"},"Scripts/Script.sql":{"default-schema":"branas","default-datasource":"postgres-jdbc-190215ab66d-617fc12dc48d381b","default-catalog":"postgres"}}}

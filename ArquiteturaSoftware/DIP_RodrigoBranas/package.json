@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "typescript": "^5.5.3",
+    "ts-jest": "^29.2.3",
+    "jest": "^29.7.0",
+    "@types/jest": "^29.5.12"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "pg-promise": "^11.9.1",
+    "postgres": "^3.4.4"
+  }
+}

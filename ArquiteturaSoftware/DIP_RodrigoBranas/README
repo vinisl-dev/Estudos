@@ -1,0 +1,4 @@
+principios de DIP com typescript e TDD
+
+psql -d dev -f create.sql
+
